@@ -11,7 +11,7 @@ Quizo is a Quiz Management System built using **React (frontend)** and **TypeScr
 - Responsive UI using ShadCN UI.
 
 ## 🔗 GitHub Repository
-[GitHub Repository Link](https://github.com/yourusername/quizo)
+GitHub Repository Link](https://github.com/yourusername/quizo)](https://github.com/Sanjaysharma001/Quizo
 
 ## 🛠️ Tech Stack
 - **Frontend**: React (Vite, ShadCN UI, React Query, Tailwind CSS)
