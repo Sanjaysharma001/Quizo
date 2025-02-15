@@ -11,7 +11,7 @@ Quizo is a Quiz Management System built using **React (frontend)** and **TypeScr
 - Responsive UI using ShadCN UI.
 
 ## 🔗 GitHub Repository
-GitHub Repository Link](https://github.com/yourusername/quizo)](https://github.com/Sanjaysharma001/Quizo
+GitHub Repository Link](https://github.com/yourusername/quizo)](https://github.com/Sanjaysharma001/Quizo)
 
 ## 🛠️ Tech Stack
 - **Frontend**: React (Vite, ShadCN UI, React Query, Tailwind CSS)
@@ -23,7 +23,7 @@ GitHub Repository Link](https://github.com/yourusername/quizo)](https://github.c
 ## ⚙️ Setup Instructions
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/quizo.git](https://github.com/Sanjaysharma001/Quizo.git
+git clone [https://github.com/yourusername/quizo.git](https://github.com/Sanjaysharma001/Quizo.git](https://github.com/Sanjaysharma001/Quizo.git)
 cd quizo
 ```
 
