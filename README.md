@@ -4,7 +4,7 @@
 Quizo is a Quiz Management System built using **React (frontend)** and **TypeScript (backend)** with a **SQL database (MySQL/PostgreSQL)**. It allows users to create, edit, delete, and manage quizzes.
 
 ![Alt Text](![Screenshot from 2025-02-15 18-20-21](https://github.com/user-attachments/assets/00f2fbfb-2767-4e11-b433-cc15927c3e7f)
-)
+
 
 ## 🚀 Features
 - User authentication (basic static credentials for now).
@@ -21,6 +21,11 @@ GitHub Repository Link](https://github.com/yourusername/quizo)](https://github.c
 - **Backend**: Node.js, Express.js, Prisma (TypeScript)
 - **Database**: MySQL / PostgreSQL
 
+ ![Alt Text](![Screenshot from 2025-02-15 18-26-59](https://github.com/user-attachments/assets/2a4a9575-f92f-4991-8949-c72a605ba669)
+)
+
+ ![Alt Text](![Screenshot from 2025-02-15 18-27-17](https://github.com/user-attachments/assets/b7d1cd34-cb98-4292-b2fe-80068a6b5e01)
+)
 ---
 
 ## ⚙️ Setup Instructions
