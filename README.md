@@ -23,7 +23,7 @@ Quizo is a Quiz Management System built using **React (frontend)** and **TypeScr
 ## ⚙️ Setup Instructions
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/quizo.git
+git clone https://github.com/yourusername/quizo.git](https://github.com/Sanjaysharma001/Quizo.git
 cd quizo
 ```
 
